@@ -177,9 +177,7 @@
 - [开发者头条](http://toutiao.io)
 - [码农周刊](http://weekly.manong.io)
 
-## 贡献者
-
-点击[该链接](https://github.com/Aufree/trip-to-iOS/graphs/contributors)查看该项目的所有贡献者
+ 
 
 ## License
 
